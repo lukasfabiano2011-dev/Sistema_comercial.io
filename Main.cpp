@@ -13,7 +13,7 @@
 using namespace std;
 string lucro = "";
 bool modelo_salvo = false;
-string dados[5];
+string dados[6];
 string modelo_planilha = "";
 int j = 0;
 //descreve todas as características de um material (cabeçalho)
@@ -59,9 +59,9 @@ struct materiais_de_save {
 
 };
 
-materiais_de_save ms[29];
+materiais_de_save ms[30];
 
-vector<materiais_> materiais = vector<materiais_>(29);
+vector<materiais_> materiais = vector<materiais_>(30);
 //formato do cad xxxastro do cliente
 struct cadastro {
     string nome_pessoa = "não há cadastro";
