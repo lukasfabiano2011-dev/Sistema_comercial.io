@@ -5,3 +5,5 @@ importação e exportacao de arquivos de cadastros de clientes; campo completo p
 mais!
 
 ele trabalha importando arquivos .CSV e exportando saidas de dados.
+
+         COMPATIVEL COM WINDOWS
