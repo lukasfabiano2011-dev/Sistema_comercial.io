@@ -62,7 +62,7 @@ struct materiais_de_save {
 materiais_de_save ms[30];
 
 vector<materiais_> materiais = vector<materiais_>(30);
-//formato do cad xxxastro do cliente
+//formato do cadastro do cliente
 struct cadastro {
     string nome_pessoa = "não há cadastro";
     float total_gasto = 0;
