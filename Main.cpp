@@ -268,8 +268,8 @@ usuario:
         cout << "1 - calcular media de custos\n" << endl;
         cout << "2 - inserir lucro\n" << endl;
         cout << "3 - criar novo modelo de planilha\n" << endl;
-        cout << "4 - ver todos os itens já comprados" << endl;
-        cout << "5 - adicionar cadastro de cliente" << endl;
+        cout << "4 - ver todos os itens já comprados\n" << endl;
+        cout << "5 - adicionar cadastro de cliente\n" << endl;
         cout << "6 - inserir margem de lucro" << endl;
 
         int escolha = 8;
@@ -426,7 +426,7 @@ usuario:
         cout << "2 - comparar gastos\n" << endl;
         cout << "3 - ver o total de itens comprados\n" << endl;
         cout << "4 - conferir os maiores fornecedores\n" << endl;
-        cout << "5 - vizualizar os melhores cadastros" << endl;
+        cout << "5 - vizualizar os melhores cadastros\n" << endl;
         cout << "6 - adicionar quantidade de vendas para cada arquivo" << endl;
 
         int escolha_modo_de_dados = 0;
